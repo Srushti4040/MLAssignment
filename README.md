@@ -13,7 +13,7 @@ Implement five machine-learning classification algorithms to predict whether a c
 - The original source file is the Excel dataset obtained from UCI. `credit_card_default_cleaned.csv` is the CSV used by `train.py`.
 
 ## c. GitHub Repository Link
-**Pending publication.** Add the actual repository URL here after the repository has been created and checked. Do not submit this placeholder as a live repository link.
+(https://github.com/Srushti4040/MLAssignment)
 
 ## d. Models used
 
@@ -73,8 +73,4 @@ python train.py
 streamlit run app.py
 ```
 
-The app loads the saved pipelines from `model/`. Upload `test_data.csv` to evaluate all five models. The app does not call `.fit()` and does not retrain on uploaded test data.
 
-## Notes
-- The GitHub URL is intentionally left pending until the repository exists.
-- The assignment also requires a live Streamlit link, a screenshot showing execution on BITS Virtual Lab, and this README content in the final single-PDF submission. Those are separate submission steps and are not completed by this local project ZIP.
